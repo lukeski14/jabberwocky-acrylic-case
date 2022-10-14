@@ -9,7 +9,7 @@ _If you are using a daughterboard, there are mounts on the bottom layer and you 
 - 4 x M2 hex nut
 ## Dexterous (RH) Case
 
-![Dexterous Case](./dexterous/dexterous.png)
+![Dexterous Case](dexterous.png)
 
 To make a case, you'll need to cut the following layers out of 3mm acrylic or other similar sheet material (wood, etc.)
 
