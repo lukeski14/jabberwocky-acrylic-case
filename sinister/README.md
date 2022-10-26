@@ -23,5 +23,7 @@ To make a case, you'll need to cut the following layers out of 3mm acrylic or ot
 
 #### IF YOU HAVE A JABBERWOCKY PCB FROM THE ORIGINAL V1 RUN IN 2021:
 
-Use the V1 plate layer in the **/v1_sinister_pcb_ONLY/** subfolder for compatibility (the layouts are slightly different). You do not need the standard (V2) plate layer.
+Use the V1 layers in the **/v1_sinister_pcb_ONLY/** subfolder for compatibility (the layouts are slightly different). You do not need the standard (V2) layers.
 - 1 x sinister-plate-v1
+- 1 x sinister-top1-v1
+- 1 x sinister-top2-v1
