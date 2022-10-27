@@ -6,7 +6,7 @@ The Jabberwocky is a full-size columnar-staggered Alice-like split, inspired by 
 PCBs and DIY kits are available for purchase [here](https://nopunin10did.com/jabberwocky/) and discussion on the Jabberwocky can be followed in the [NoPunin10Key discord](https://discord.gg/GVanAmPDCH).
 
 In this repository you'll find files you can use to make your own stacked acrylic case. There are versions for the Dexterous (Right-Handed Numpad) and Sinister (Left-Handed Numpad) variants of the Jabberwocky keyboard.
-In total, your case will be composed of **6 layers**.
+In total, your case will be composed of **7 layers**.
 
 If you are in the US and do not have access to a laser cutter, I personally recommend [P3DStore](https://p3dstore.com/products/custom-printing-laser-cutting-services) for custom cutting services. You should be able to upload these files and this readme to specify layers and hardware required. You can also source the hardware separately.
 P3DStore's in-stock acrylic colors gallery is available to view [here](https://p3dstore.com/pages/in-stock-acrylic-color-options).
@@ -42,7 +42,7 @@ To make a case, you'll need to cut the following layers out of 3mm acrylic or ot
 - 1 x dexterous-top2
 - 1 x dexterous-top1
 - 1 x dexterous-plate
-- 2 x dexterous-mid
+- 3 x dexterous-mid
 - 1 x dexterous-bottom
 ## Sinister (LH) Case
 
@@ -53,7 +53,7 @@ To make a case, you'll need to cut the following layers out of 3mm acrylic or ot
 - 1 x sinister-top2
 - 1 x sinister-top1
 - 1 x sinister-plate
-- 2 x sinister-mid
+- 3 x sinister-mid
 - 1 x sinister-bottom
 ## V1 Jabberwocky PCB
 
