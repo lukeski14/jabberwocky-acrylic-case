@@ -17,7 +17,7 @@ To make a case, you'll need to cut the following layers out of 3mm acrylic or ot
 - 1 x sinister-top2
 - 1 x sinister-top1
 - 1 x sinister-plate
-- 2 x sinister-mid
+- 3 x sinister-mid
 - 1 x sinister-bottom
 ## V1 Jabberwocky PCB
 
