@@ -16,7 +16,7 @@ To make a case, you'll need to cut the following layers out of 3mm acrylic or ot
 - 1 x dexterous-top2
 - 1 x dexterous-top1
 - 1 x dexterous-plate
-- 3 x dexterous-mid
+- 3 x dexterous-mid (may only need two if you are surface-mounting your Elite-C)
 - 1 x dexterous-bottom
 
 ## V1 Jabberwocky PCB
