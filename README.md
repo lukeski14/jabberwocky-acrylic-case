@@ -3,7 +3,7 @@
 
 The Jabberwocky is a full-size columnar-staggered Alice-like split, inspired by the Boardrun Bizarre (designed by shensmobile). It utilizes 2x2.25u Shift keys (like a 660) and moves all of the upper nav cluster keys into the function row (similar to an 1800).
 
-PCBs and DIY kits are available for purchase [here]() and through the [NoPunin10Key discord](https://discord.gg/GVanAmPDCH).
+PCBs and DIY kits are available for purchase [here](https://nopunin10did.com/jabberwocky/) and discussion on the Jabberwocky can be followed in the [NoPunin10Key discord](https://discord.gg/GVanAmPDCH).
 
 In this repository you'll find files you can use to make your own stacked acrylic case. There are versions for the Dexterous (Right-Handed Numpad) and Sinister (Left-Handed Numpad) variants of the Jabberwocky keyboard.
 In total, your case will be composed of **6 layers**.
