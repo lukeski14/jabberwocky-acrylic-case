@@ -11,6 +11,9 @@ In total, your case will be composed of **7 layers**.
 If you are in the US and do not have access to a laser cutter, I personally recommend [P3DStore](https://p3dstore.com/products/custom-printing-laser-cutting-services) for custom cutting services. You should be able to upload these files and this readme to specify layers and hardware required. You can also source the hardware separately.
 P3DStore's in-stock acrylic colors gallery is available to view [here](https://p3dstore.com/pages/in-stock-acrylic-color-options).
 
+## DISCLAIMER
+
+This open-source case design has **NOT** been cut/assembled/tested with a Jabberwocky PCB. If you have your own laser-cutter and cut this design for use, please reach out to me on discord with your feedback (@lukeski14#2711). Once the case designs have been tested, any changes will be made to the files and instructions here, and this disclaimer will be updated with tested configurations.
 
 ## Authors
 
