@@ -22,7 +22,7 @@ This open-source case design has **NOT** been cut/assembled/tested with a Jabber
 |Low-profile socketed Elite-C |3|✔|❌
 |High-profile socketed Elite-C |N/A|❌|❌
 |Mini-USB |2|✔|❌
-|Daughterboard |2|✔|❌
+|Daughterboard |2|✔|✔
 
 ## Authors
 
