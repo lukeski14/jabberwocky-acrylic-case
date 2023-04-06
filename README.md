@@ -17,7 +17,7 @@ This open-source case design has **NOT** been cut/assembled/tested with a Jabber
 
 |USB Option | No. of "Mid" Layers Needed | Compatible?|Tested?
 |-----------|----------------------------|------------|-------
-|Surface-mounted Elite-C |2|✔|❌
+|Surface-mounted Elite-C |2|✔|✔
 |Standoff-mounted Elite-C |3|✔|❌
 |Low-profile socketed Elite-C |3|✔|❌
 |High-profile socketed Elite-C |N/A|❌|❌
